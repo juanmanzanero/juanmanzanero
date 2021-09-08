@@ -1,24 +1,10 @@
 ### Hi there 👋
 
-I am Juan Manzanero, doctor of aerospace engineer, and I work at European Space Agency in Germany.
+I am Juan Manzanero, from Talavera de la Reina (Spain)
 
-I’m currently working on spacecrafts commands generations in interplanetary science missions like Solar Orbiter and Juice (Jupiter icy moons explorer).
-
-My previous experience includes research in high order methods applied to fluid dynamics. I have contributed to the development of entropy-stable schemes for multiphase flows, turbulent flows, and shock capturing.
-
-I am also interested in vehicle dynamics and lap-time optimization.
-
-<!--
-**juanmanzanero/juanmanzanero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 📌 Based in Germany <br />
+ 🎓 I am a PhD. in aerospace engineering<br />
+ 🚀 I currently work at European Space Agency, on spacecrafts commands generations for interplanetary science missions like Solar Orbiter and Juice (Jupiter icy moons explorer)<br />
+ 🌀 My previous experience includes researched in high order methods applied to fluid dynamics. I have contributed to the development of entropy-stable schemes for multiphase flows, turbulent flows, and shock capturing<br />
+ 💻 Computer languages: C/C++, Fortran, Matlab and Python<br />
+ 🏎️ I am also interested in vehicle dynamics and lap-time optimization<br />
