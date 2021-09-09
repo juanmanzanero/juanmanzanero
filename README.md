@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Juan Manzanero, from Talavera de la Reina (Spain). The Github template for this intro tells me now its time to put now an emoji-bullet list that highlights what I am good at, so here it goes:
+I am Juan Manzanero, from Talavera de la Reina (Spain). Apparently now its time to put an emoji-bullet list that highlights what I am good at, so here it goes:
 
  📌 Based in Germany <br />
  🎓 PhD. in aerospace engineering<br />
